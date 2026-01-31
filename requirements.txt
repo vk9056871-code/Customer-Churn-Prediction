@@ -1,9 +1,5 @@
+streamlit
 tensorflow==2.15.0
-pandas 
-numpy 
+numpy
+pandas
 scikit-learn
-tensorboard
-matplotlib
-streamlit==1.28.0
-altair==4.2.2
-scikeras
